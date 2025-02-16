@@ -57,3 +57,26 @@ body{
 .input-group.error input{
     border-color: rgb(34,193,195);
 }
+//is
+const form= document.queryselector('#form')
+const username = document.queryselector('#username');
+const email = document.queryselector('#email');
+const password = document.queryselector('#password');
+const cpassword = document.queryselector('#cpassword');
+
+form.addeventlistener('submit',(e)=>{
+    e.preventdefault();
+    validateinputs();
+})
+
+function validateinputs(){
+    const usernameval = username.value.trim();
+    const emailval = email.value.trim();
+    const passwordval = password.value.trim();
+    const cpasswordval = cpassword.value.trim();
+}
+function seterror(element,message){
+    const inputgroup = element.parentelement;
+    const errorelement = inputgroup.queryselector('.error')
+
+}
