@@ -1,0 +1,15 @@
+//css
+container1
+{
+    border-width: 3px;
+    border-style: solid;
+}
+.butt1
+{
+    margin-left: 800px;
+}
+.butt2
+{
+    margin-left: 1000px;
+    margin-bottom: 70px;
+}
