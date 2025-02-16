@@ -1,1 +1,16 @@
-https://drive.google.com/drive/folders/19AfxK9QZWPqyJGEtRyDLVDc6unglRaX3
+//css
+container {
+    background-color: whitesmoke;
+    font-size: medium;
+}
+//Javascript
+var a1 = ["p", "q", "r", "s"];
+var a2 = ["a", "b"];
+//1.push()
+console.log(a1.push("t"));
+console.log(a1);
+
+//2.pop()
+console.log(a1.pop(""));
+console.log(a1);
+//html
