@@ -57,7 +57,7 @@ body{
 .input-group.error input{
     border-color: rgb(34,193,195);
 }
-//is
+//js
 const form= document.queryselector('#form')
 const username = document.queryselector('#username');
 const email = document.queryselector('#email');
