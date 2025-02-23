@@ -1,0 +1,46 @@
+//Html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <<meta charset="UTF-8">
+        <title>curriculam vitae</title>
+    </head>
+    <body><kbd>
+        <h1>CURRICULAM VITAE</h2>
+            <h3>SINDHU R</h3>
+            <p>ADDRESS:155,manmadhan kovil street ,melachalai,sirkali,annakovil post, mayiladuthurai district.</p>
+            <br>
+            <p>EMAIL:sindhurajendran@gmail.com .</p>
+            <br>
+            <p>PHONE no:9342792725</p>
+            <br>
+            <h2>PERSONAL DETAILS</h2>
+            <hr>
+            <ul>
+                <li>DATE OF BIRTH:29/05/2004</li>
+                <li>GENDER:female</li>
+                <li>MARITAL STATUS:single</li>
+                <li>NATIONALITY:indian</li>
+                <li>LANGUAGE KNOWN:tamil,english</li>
+            </ul>
+
+            <h2>CARRIER OBJECTIVE</h2>
+            <hr>
+            <p>to be a part of an organisation where i can devote myself fully and joyfully give out best of my talents.</p>
+            <h2>EDUCATION QUALIFICATION</h2>
+            <hr>
+            <ul>
+                <li>B.E-ECE</li>
+            </ul>
+            <h2>STRENGTH</h2>
+            <hr>
+            <ul>
+                <li>punctuality</li>
+                <li>hard working </li>
+                <li>ability to learn new thing</li>
+            </ul>
+           
+        </h1>
+        </kbd>
+    </body>
+</html>
