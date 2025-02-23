@@ -1,3 +1,51 @@
+//Http
+SCHOOL ADMISSION FORM<!DOCTYPE html>
+
+    <head>
+        <title>admission form</title>
+    </head>
+    <body>
+        <br>
+        <th >SCHOOL ADMISSION FORM:</th>
+        </BR>
+        <br>
+        NAME<input type="text" maxlength="10">
+        </br>
+        <br>
+        FATHER NAME<input type="text" maxlength="20">
+        </br>
+        <br>
+        MOTHER NAME<input type="text" maxlength="20">
+        </br>
+        <br>
+         ADDRESS<input type="address" maxlength="50">
+         </br>
+        <br>
+        EMAIL<input type="email">
+        </br>
+        <br>
+        TELEPHONE NO<input type="tel" maxlength="10" >
+        </br>
+        <br>
+        DOB<input type="number" >
+        </br>
+        <br>
+        CATEGORY<input type="text">
+        </br>
+        <br>
+        GENDER<input type="text">
+        </br>
+        <br>
+        COURSE<input type="text">
+        </br>
+        <br>
+        CITY<input type="text" maxlength="20">
+        </br>
+        <br>
+        STATE<input type="text" maxlengt"20">
+        </br>
+        </body>
+        </html>
 //css
 container1
 {
