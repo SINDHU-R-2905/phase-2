@@ -1,3 +1,40 @@
+//Http
+<!DOCTYPE html>
+<HTML lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE=EDGE">
+        <meta name ="viewport" content = "width=device-width, initial-">
+        <link rel = "stylesheet" href="secondhtml.css">
+        <script src="app.js" defer></script>
+        <title>REGISTER</title>
+    </head>
+    <body>
+        <div class="container">
+            <form action="" id="form">
+                <h1>REGISTER</h1>
+                <div class="input-group">
+                    <label for="USERNAME">USERNAME</label>
+                    <input type="text" id="USERNAME" name="USERNAME">
+                    <div class="error"></div>
+                    <div class="input-group">
+                        <label for="EMAIL">EMAIL</label>
+                        <input type="text" id="EMAIL" name="EMAIL">
+                        <div class="error"></div>
+                        <div class="input-group">
+                            <label for="PASSWORD">PASSWORD</label>
+                            <input type="text" id="PASSWORD" name="USERNAME">
+                            <div class="error"></div>
+                            <div class="input-group">
+                                <label for="PASSWORD">CONFIRM PASSWORD</label>
+                                <input type="text" id="PASSWORD" name="USERNAME">
+                                <div class="error"></div>
+                                <button type="SUBMIT">REGISTER</button>
+                </div>
+            </form>
+        </div>
+    </body>
+</HTML>
 //css
 body{
     background: green;
