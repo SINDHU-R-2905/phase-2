@@ -1,0 +1,65 @@
+//Html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>String Methods Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        form {
+            max-width: 400px;
+            margin: 0 auto;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 5px;
+            margin-bottom: 10px;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <form id="stringMethodsForm">
+        <label for="inputString">Input String:</label>
+        <input type="text" id="inputString" name="inputString" required>
+        <button type="button" onclick="performStringMethods()">Submit</button>
+    </form>
+
+    <h2>Results:</h2>
+    <div id="results"></div>
+
+    <script>
+        function performStringMethods() {
+            const inputString = document.getElementById("inputString").value;
+            const resultsDiv = document.getElementById("results");
+
+            // Example string methods
+            const length = inputString.length;
+            const upperCaseString = inputString.toUpperCase();
+            const lowerCaseString = inputString.toLowerCase();
+            const indexOfSpace = inputString.indexOf(" ");
+            const splitArray = inputString.split(" ");
+
+            // Display results
+            resultsDiv.innerHTML = `
+                <p>Length of the string: ${length}</p>
+                <p>Uppercase: ${upperCaseString}</p>
+                <p>Lowercase: ${lowerCaseString}</p>
+                <p>Index of space: ${indexOfSpace}</p>
+                <p>Split into array: ${splitArray.join(', ')}</p>
+            `;
+        }
+    </script>
+</body>
+</html>
