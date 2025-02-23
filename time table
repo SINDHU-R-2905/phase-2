@@ -1,3 +1,77 @@
+//Http
+<!DOCTYPE html>
+<html>
+
+  <html>
+    <head>
+      <title>time table</title>
+    <head>
+    <body>
+    </body>
+    <table>border="1px"cellpadding="20px">
+    <tr>
+      <th colspan="10">time table</>
+    </tr>
+      <tr>
+        <th>day</th>
+        <td>1</td>
+        <td>2</td>
+        <th rowspan="7">break</th>
+        
+        <td>3</td>
+        
+        <th rowspan="7">lunch</th>
+        
+        <td>4</td>
+        
+        <td>5</td>
+        
+       
+        
+      </tr>
+      <tr>
+        <th>monday</th>
+        <td>tamil</td>
+        <td>english</td>
+        <td>maths</td>
+        <td>science</td>
+        <td>social science<td>
+          <td>tamil</td>
+      </tr> 
+      <tr>
+        <th>wednesday</th>
+        <td>maths</td>
+        <td>science</td>
+        <td>social science</td>
+        <td>tamil</td>
+        <td>english</td>
+      </tr>
+      <tr>
+        <th>thursday</th>
+        <td>science</td>
+        <td>english</td>
+        <td>social science</td>
+        <td>maths</td>
+        <td>tamil</td>
+        </td>
+      </tr>
+     
+      <tr>
+        <th>friday</th>
+        <td>social science</td>
+        <td>tamil</td>
+        <td>english</td>
+        <td>maths</td>
+        <td>science</td>
+      </tr>
+      
+        
+       
+
+     </table>
+     </body>
+</html>
+//css
 .container1
 {
     border-width: 3px;
