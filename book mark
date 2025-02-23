@@ -1,0 +1,58 @@
+//Html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>book mark demo</title> 
+    </head>
+    <body>
+        <a href="#resume">go to my resume</a>
+        <h1>NAME:</h1>
+        <p>R.SINDHU</p>
+        <h1>ADDRESS:</h1>
+        <p>no.4,ganesh nagar,reserve line ,satur,TN.</p>
+        <h1>GMAIL:</h1>
+        <p>sindhuece@gmail.com</p>
+        <h1>OBJECTIVE:</h1>
+                <p>to pursue a challenging roles as managerical engineer towards the growth of the organization which design and developement fields</p>
+                <h1>EDUCATION:</h1>
+                <p>B.E ELECTRONICS COMMUNICATION ENGINEERING</p>
+                <h>SKILLS AND ACCOMPLISHMENTS</h>
+                <p>DESIGN ,PROBLEM SOLVING AND CREATIVITY:
+                <br>
+                *improved accuracy of monthly inventory counts at an ink - jet factory from 90% to 96% during my project work.</br>
+                    <br>
+                    *applied problem solving skills to design a more stable ironing board for a group project.
+                </br>
+
+                    .</p>
+                 <p>MANUFACTURING:
+                <br>
+                    *maintained appropriate inventory  levels for hundreds of parts used in the manufacture of inkjet printers and catriges.
+                    </br>
+                    <br>
+                    *distributed parts to busy production line in a timely way to prevent work stoppages.
+                    </br>
+                    <br>
+                    *developed knowledge of production protocols and manufacturing environment.
+                    </br>
+                    </p>
+                <p>TEAMWORK AND INTERPERSONAL SKILLS:
+                <br>
+                    *provided efficient and courteous customer service to diverse elientele in busy retail environments while accurately making quick 
+                     transactions.
+                     </br>
+                     <p>COMPUTER AND LANGUAGE SKILLS:
+                <br>
+                    *software:auto CAD ,advanced microsoft excel.
+                    </br>
+                    <br>
+                    *languages:proficient in english.
+                    </br>
+                    </p>
+                <p>ACTIVITIES:
+                <br>
+                    member of greenpeace a global environment organisation participated in many social - awarness campaigns.
+                    </br>
+                    </p>
+                    </body>
+                    </html>
