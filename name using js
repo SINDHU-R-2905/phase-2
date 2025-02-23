@@ -1,0 +1,34 @@
+//Html
+<!doctype html>
+<html>
+    <head>
+        <meta cahrset = "ISO - 8859 -1">
+        <title>INSERT TItle HERE</TITle>
+            <script>
+                Function disp()
+                {
+                    VAR name = document.frm.fn.value;
+                    if(name=="")
+                    {
+                        alert("please enter name");
+                    }else
+                }
+                
+                {
+                    document.getelementbyID("s").innerHTML = "<font color ='red'>hello "+name+"</font>";
+
+                }
+                </script>
+                </head>
+                <body>
+                    <form name="frm">
+                        enter the name:<input type="text" name="fn">
+                        <br>
+                        <!------<input type="submit" value="save">-->
+                        <!------<button name="btn" value="click" onclick="disp()" >save</button>-->
+                        <input type="button" value="save" onclick="disp()">
+                    </form>
+
+                    <div id="s" ></div>
+                </body>
+                </html>
