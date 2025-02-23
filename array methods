@@ -1,3 +1,23 @@
+//Html
+<!doctype html>
+<html lang = "en">
+    <head>
+        <meta charset="UTF-8">
+        <META http-equiv="X-UA-COMPATIBLE" content="IE-EDGE">
+            <meta name="viewport" content="width = device- width", initial scale = "1.0">
+            <title>
+                ARRAY METHODS
+            </title>
+            <LINK rel="style sheet" href="">
+                <script src=""></script>
+
+
+    </head>
+    <body>
+        <script src=""></script>
+    </body>
+</html>
+
 //css
 container {
     background-color: whitesmoke;
