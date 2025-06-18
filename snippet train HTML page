@@ -1,0 +1,28 @@
+HTML
+
+
+<!doctype html>
+<html>
+ <head>
+  <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+  <h1>Sniper Bullet Train</h1>
+  <img src="https://mimo.app/i/bullet%20train.png">
+  <p>Top Speed: 300 mph</p>
+ </body>
+</html>
+
+
+CSS
+
+
+img {
+  width: 250px;
+  height: 150px;
+  border-radius: 0 150px 150px 0;
+}
+
+body {
+ background-color: skyBlue;
+}
