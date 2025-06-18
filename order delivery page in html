@@ -1,0 +1,24 @@
+html
+<!doctype html>
+<html>
+ <head>
+  <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+  <div>
+   <p>FREE Delivery by Tomorrow</p>
+   <button>Buy Now</button>
+   <p>Dispatched from and sold by Zbay.</p>
+  </div>
+ </body>
+</html>
+
+CSS
+
+button {
+ margin: 0 0 35px 35px;
+ padding: 20px;
+ width: 200px;
+ font-weight: bold;
+ background-color: gold;
+}
