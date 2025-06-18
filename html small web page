@@ -1,0 +1,26 @@
+HTML
+
+<!doctype html>
+<html>
+ <head>
+  <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+  <img src="https://mimo.app/i/wave.png">
+  <h1>2030 Water Gun Fight</h1>
+  <p>Being Dry is Overrated Anyway</p>
+ </body>
+</html>
+
+CSS
+
+img {
+ margin: 20px 0 0 20px;
+ width: 100px;
+ height: 100px;
+ border-radius: 100px 20px 20px 100px;
+}
+
+body {
+ background-color: skyBlue;
+}
