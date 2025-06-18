@@ -1,0 +1,25 @@
+HTML
+<!doctype html>
+<html>
+ <head>
+  <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+  <h3>Bojack Horseman Quotes</h3>
+  <p>"Nobody ever wants honeydew, but it's always there!"</p>
+ </body>
+</html>
+
+CSS
+
+p {
+ border-radius: 0 100px 50px 100px;
+ padding: 40px;
+ width: 150px;
+ background-color: honeyDew;
+ text-align: center;
+}
+
+body {
+ background-color: lightblue;
+}
