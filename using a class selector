@@ -1,0 +1,46 @@
+HTML
+
+
+
+<!doctype html>
+<html>
+ <head>
+  <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+  <h2>Women's Gymnastics Winners </h2>
+  <p class="gold">Simone Biles</p>
+  <p class="silver">Aly Raisman</p>
+  <p class="bronze">Aliya Mustafina</p>
+ </body>
+</html>
+
+
+
+
+CSS
+
+
+body {
+  text-align: center;
+  
+}
+
+.gold {
+  background-color: gold;
+  margin-left: 100px;
+   margin-right: 100px;
+  
+}
+
+.silver {
+  background-color: silver;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+.bronze {
+  background-color: peru;
+  margin-left: 40px;
+  margin-right: 40px;
+}
